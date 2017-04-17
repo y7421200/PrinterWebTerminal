@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/lib/lib/bridj-0.7-20140918.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/lib/lib/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/lib/lib/slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/lib/lib/v4l4j-0.9.1-r507.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/lib/lib/webcam-capture-0.3.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/lib/lib/webcam-capture-driver-v4l4j-0.3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/jacob-1.18-M2/jacob-1.18-M2/jacob.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/httpcomponents-client-4.5.3/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/httpcomponents-client-4.5.3/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/httpcomponents-client-4.5.3/lib/fluent-hc-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/httpcomponents-client-4.5.3/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/httpcomponents-client-4.5.3/lib/httpclient-cache-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/httpcomponents-client-4.5.3/lib/httpclient-win-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/httpcomponents-client-4.5.3/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/httpcomponents-client-4.5.3/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/httpcomponents-client-4.5.3/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/httpcomponents-client-4.5.3/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/.m2/repository/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/fontbox-2.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/pdfbox-2.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/pdfbox-debugger-2.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/pdfbox-tools-2.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/preflight-2.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surface book/Downloads/xmpbox-2.0.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
